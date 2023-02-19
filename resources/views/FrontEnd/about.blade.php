@@ -7,10 +7,7 @@
                 <h1 class="mb-4">Our Story</h1>
                 <p class="fs-7 fw-600 text-justify wow animate__animated animate__fadeInUp animated"
                     style="visibility: visible;">
-                    {{ $data->companyname }} is one of the best leading companies of diamond industry. We are a family-owned
-                    diamond business. We offer consumers a beautiful, ethical, and affordable diamond. We have a team of
-                    experts for creating elegant diamonds with attractive shapes based on customer's vision and styles.
-                    Choose the diamonds from our exclusive collection.
+                    {{ $data->companyname }} is one of the best leading companies in the diamond industry. We are a family-owned diamond business. We offer consumers a beautiful, ethical, and affordable diamond. We have a team of experts for creating elegant diamonds with attractive shapes based on the customer's vision and styles. Choose the diamonds from our exclusive collection.
                 </p>
             </div>
 
@@ -23,7 +20,7 @@
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-6 ps-lg-0 wow fadeIn" data-wow-delay="0.1s" style="min-height: 400px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('FrontEnd/img/about.jpg') }}"
+                        <img class="position-absolute img-fluid w-100 h-100" src="{{ asset('FrontEnd/img/About me.jpg') }}"
                             style="object-fit: cover;" alt="">
                     </div>
                 </div>
@@ -35,6 +32,8 @@
                             diamonds. Our experts make the perfect Shiny diamond for you. Expressing your love shouldn't
                             have to cost a fortune. We will be there with you every step of the way to educate you on how to
                             build the perfect ring for your loved one.</p>
+
+                           
                     </div>
                 </div>
             </div>
@@ -478,9 +477,9 @@
                                 <img src="{{asset('FrontEnd/img/vision-bg-img.webp')}}" alt="img12" />
                                 <figcaption>
                                     <h2>{{$data->companyname}}</h2>
-                                    <p>We are a family-owned diamond business. {{$data->companyname}} is one of the leading diamond cutters and importers in India and fine gem designers in India.
+                                    <p>We are a family-owned diamond business. {{$data->companyname}} is one of the leading diamond cutters and importers in India and fine diamonds designers in India.
 
-                                        Our offices have been opened to private clients to provide direct access to an excellent range of diamonds and an exclusive array of more than 2,500 styles, which are typically only accessible to the top wholesalers and retailers globally. Much of this is available for wholesalers buying at the same amount.</p>
+                                        Our offices have been opened to private clients to provide direct access to an excellent range of diamonds and an exclusive array of more than 1,000 styles, which are typically only accessible to the top wholesalers and retailers globally. Much of this is available for wholesalers buying at the same amount.</p>
                                     
                                 </figcaption>
                             </figure>

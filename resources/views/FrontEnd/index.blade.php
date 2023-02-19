@@ -63,14 +63,17 @@
                 <div class="p-lg-5 pe-lg-0">
                     <h6 class="text-primary">About Us</h6>
                     <h1 class="mb-4" style="font-size:38px;">Welcome to {{ $data->companyname }}</h1>
-                    <p style="text-align: justify;">Transparency and Faith are gems-stone for our company from our
+                    <p style="text-align: justify;">Transparency and Faith are diamonds for our company from our
                         customers. And we work on this trust of customers and stakeholders. {{ $data->companyname }}
                         objective is to establish itself firmly as a leader in the global jewellery market by
                         manufacturing and marketing the finest quality diamonds to consumers across the world with
                         customers faith.</p>
-                    <p><i class="fa fa-check-circle text-primary me-3"></i>Diamonds</p>
-                    <p><i class="fa fa-check-circle text-primary me-3"></i>Jewelry</p>
-                    <a href="" class="btn btn-primary rounded-pill py-3 px-5 mt-3">View Inventory</a>
+                        <p style="text-align: justify;"> We provide the premium quality of diamonds & jewelry, we supply in wholesale and also customize as per the requirements.</p>
+
+                        <p style="text-align: justify;">We customize the requirements as per size, color clarity and price so that customers can easily fulfill the jewelry design requirements.</p>
+
+
+
                 </div>
             </div>
         </div>
@@ -231,7 +234,7 @@
                                 </div>
                                 <div class="ms-4">
                                     <!--  <p class="mb-0">Customer</p> -->
-                                    <h5 class="mb-0">Customer Support</h5>
+                                    <h5 class="mb-0">Conflict Free</h5>
                                 </div>
                             </div>
                         </div>
@@ -264,9 +267,9 @@
                         <i class="fa fa-check text-white"></i>
                     </div>
                     <!-- <h1 class="mb-0" data-toggle="counter-up">4234</h1> -->
-                    <h1 class="mb-0" style="font-size:30px;">Look</h1>
+                    <h1 class="mb-0" style="font-size:30px;">Free Shipping</h1>
                 </div>
-                <span>Colorless, flawless and ideal cut. <br /> Everytime.</span>
+                <span>Free shipping on all orders over $ 1000 </span>
             </div>
             <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
                 <div class="d-flex align-items-center mb-4">
@@ -274,9 +277,9 @@
                         <i class="fa fa-check text-white"></i>
                     </div>
                     <!-- <h1 class="mb-0" data-toggle="counter-up">4234</h1> -->
-                    <h1 class="mb-0" style="font-size:30px;">Cost</h1>
+                    <h1 class="mb-0" style="font-size:30px;">Easy Return</h1>
                 </div>
-                <span>Transparent pricing, Great value for money.</span>
+                <span>30 Days Return Policy</span>
             </div>
             <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
                 <div class="d-flex align-items-center mb-4">
@@ -284,9 +287,9 @@
                         <i class="fa fa-check text-white"></i>
                     </div>
                     <!-- <h1 class="mb-0" data-toggle="counter-up">4234</h1> -->
-                    <h1 class="mb-0" style="font-size:30px;">Enviornment</h1>
+                    <h1 class="mb-0" style="font-size:30px;">Buy Back</h1>
                 </div>
-                <span>Conflict Free, No damage. Effortless.</span>
+                <span>100% money back guarantee</span>
             </div>
             <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
                 <div class="d-flex align-items-center mb-4">
@@ -294,9 +297,9 @@
                         <i class="fa fa-check text-white"></i>
                     </div>
                     <!-- <h1 class="mb-0" data-toggle="counter-up">4234</h1> -->
-                    <h1 class="mb-0" style="font-size:30px;">Quality</h1>
+                    <h1 class="mb-0" style="font-size:30px;">Online Support</h1>
                 </div>
-                <span>Handcrafted to be passed down for generations.</span>
+                <span>Contact Us 24/7</span>
             </div>
 
 

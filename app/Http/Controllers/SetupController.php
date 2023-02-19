@@ -82,6 +82,11 @@ public function ShowTermsConditionPage()
 $data = DB::table('setups')->latest()->first();
 return view('FrontEnd/termscondition', ['data' => $data]);
 }
+public function ShowReturnPolicyPage() 
+{
+$data = DB::table('setups')->latest()->first();
+return view('FrontEnd/ReturnPolicy', ['data' => $data]);
+}
 
 
 }

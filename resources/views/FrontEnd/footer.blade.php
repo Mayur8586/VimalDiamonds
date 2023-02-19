@@ -21,6 +21,7 @@
                     <a class="btn btn-link" href="{{url('/education')}}">Education</a>
                     <a class="btn btn-link" href="{{url('/contact')}}">Contact Us</a>
                     <a class="btn btn-link" href="{{url('/termscondition')}}">Terms & Condition</a>
+                    <a class="btn btn-link" href="{{url('/returnpolicy')}}">Return Policy</a>
                
                 </div>
 <!--                 <div class="col-lg-3 col-md-6">
