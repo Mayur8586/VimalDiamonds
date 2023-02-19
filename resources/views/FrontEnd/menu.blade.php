@@ -54,16 +54,17 @@
            <div class="navbar-nav ms-auto p-4 p-lg-0">
                <a href="{{url('/')}}" class="nav-item nav-link active">Home</a>
                <a href="{{url('/about')}}" class="nav-item nav-link">About Us</a>
-               <div class="nav-item dropdown">
-                   <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Inventory</a>
+               <a href="#" class="nav-item nav-link">Diamonds</a>
+          <!--      <div class="nav-item dropdown">
+                   <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Diamonds</a>
                    <div class="dropdown-menu bg-light m-0">
                        <a href="#" class="dropdown-item">Diamonds</a>
                        <a href="#" class="dropdown-item">Jewelry</a>
-              <!--          <a href="#" class="dropdown-item">Emerald</a>
+                       <a href="#" class="dropdown-item">Emerald</a>
                        <a href="#" class="dropdown-item">Oval</a>
-                       <a href="#" class="dropdown-item">Radiant</a> -->
+                       <a href="#" class="dropdown-item">Radiant</a>
                    </div>
-               </div>
+               </div> -->
                <a href="{{url('/jewelry')}}" class="nav-item nav-link">Jewelry</a>
                <a href="{{url('/education')}}" class="nav-item nav-link">Education</a>
                <a href="{{url('/contact')}}" class="nav-item nav-link">Contact</a>
